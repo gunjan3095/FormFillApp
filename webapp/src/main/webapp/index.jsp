@@ -81,9 +81,6 @@
                            one alphabet, one symbol, and be at 
                            least 8 characters long" required />
 
-            <label for="repassword">Re-type Password:</label>
-            <input type="password" id="repassword" name="repassword" required />
-
             <label for="mobile">Contact:</label>
             <input type="text" id="mobile" name="mobile" maxlength="10" required />
 
